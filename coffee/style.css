@@ -1143,38 +1143,3 @@ h3{
     font-size: 10px;
     margin-top: 5px;
 }
-@media screen and (max-width: 1024px) {
-
-  .cont8 {
-    flex-direction: column;   /* row → column */
-    gap: 40px;               /* 200px hata ke small gap */
-    padding: 30px 20px;
-    align-items: flex-start;
-    min-height: auto;
-  }
-
-  .cont8head {
-    font-size: 35px;
-    margin-top: 20px;
-    text-align: left;
-  }
-
-  .cont8par {
-    font-size: 16px;
-    width: 100%;
-    line-height: 1.6;
-  }
-
-  .cont8div,
-  .cont9div,
-  .cont10div {
-    width: 100%;
-  }
-
-  #icon5 {
-    font-size: 40px;
-    margin-left: 0;
-    margin-top: 20px;
-  }
-
-}
